@@ -16,3 +16,5 @@ git commit -m 'This is my first commit'
 git pull
 
 ```
+python setup.py install
+
